@@ -1,0 +1,10 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Local SQLite database (keep your actual data private)
+attendance.db
+
+# VS Code local settings
+.vscode/
