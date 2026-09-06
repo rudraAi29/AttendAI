@@ -42,9 +42,4 @@ cd AttendAI
 4. **Run the backend server (FastAPI):**
    ```bash
    uvicorn main:app --reload
-   ```
-
-5. **Run the frontend dashboard (Streamlit):**
-   ```bash
-   streamlit run app.py
-   ```
+   ``
